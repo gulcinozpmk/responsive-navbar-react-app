@@ -39,32 +39,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### REACT-RESPONSIVE-NAVBAR
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This is a basic navbar project with react.js
+![image](https://github.com/gulcinozpmk/responsive-navbar-react-app/assets/84877089/f0816224-f58d-4d25-a6b9-e3d1adbb4ae6)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+When the size of the page decreases, a hamburger menu will appear in the upper left corner.
+![image](https://github.com/gulcinozpmk/responsive-navbar-react-app/assets/84877089/b3ea64be-d868-483e-b3ac-c282cfab93e4)
 
-### Code Splitting
+When you click on it you will be able to see the menu items.
+![image](https://github.com/gulcinozpmk/responsive-navbar-react-app/assets/84877089/d79b17af-1d13-4eb7-bf12-7adcb43245ae)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
